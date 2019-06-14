@@ -6,7 +6,7 @@ Decode ambiguous Morse codes using dictionaries.
 
 I'm an owner of a beautiful travel mug made by a Russian manufacturer `Biostal` for couple of years already. Recently, I found out that the logo on this mug has a set of dashes and dots, which looks like a Morse code `-.-..-.---......----.---.`:
 
-![mug's logo]('doc/mug.jpg')
+![mug's logo](doc/mug.jpg)
 
 I wanted to check if this code-like dashed line is actually a meaningful message encoded using Morse code or just a random sequence of graphical primitives. As you may know, crutial part of Morse code is pauses being made between letters and words, but apparently a sequence on the logo was missing this information, which makes decoding indeterminate. For instance, `-.` code without knowing where letter- and word-breaks should be, may equaly be decoded as `et` or `a`.
 
