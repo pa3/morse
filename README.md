@@ -22,5 +22,5 @@ Yes. Apparently code says: `crosstown`, which is a name of a product line my mug
 
 ## Where did I get dictionaries from?
 
-English: https://github.com/dwyl/english-words
-Russian: https://github.com/danakt/russian-words
+* English: https://github.com/dwyl/english-words
+* Russian: https://github.com/danakt/russian-words
